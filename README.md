@@ -7,4 +7,7 @@
 - 🚀 currently working with manipulators, but also have experience with drones & rovers
 - 🌱 recently exploring robotic foundation models, VLAs and LLMs
 
-📫 feel free to reach me at gennaro.scarati@outlook.com or www.linkedin.com/in/gennaroscarati
+Feel free to reach out:
+**Email**: gennaro.scarati@outlook.com
+**LinkedIn**: linkedin.com/in/gennaroscarati
+**Portfolio**: gennaroscarati.com
